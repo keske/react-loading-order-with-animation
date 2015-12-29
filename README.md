@@ -2,6 +2,8 @@
 
 Animate components in order.
 
+[DEMO](http://keske.github.io/react-loading-order-with-animation/)
+
 
 ## Installation
 

@@ -1,9 +1,7 @@
 :local(.styles) {
   position: relative;
-
-  background: url(../files/jungle.jpg);
-  background-size: 100% auto;
-  // background-size: auto 100%;
+  
+  background: #7db329;
 
   height: 100%;
 
@@ -50,6 +48,7 @@
 
     h3 {
       margin-top: 40px;
+      opacity: .7;
     }
   }
 }

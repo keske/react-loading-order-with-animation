@@ -16,7 +16,7 @@ export default class Footer extends Component {
                                distance={30}
                                speed={1000}
                                wait={300}>
-          <a href="">GitHub</a>
+          <a href="https://github.com/keske/react-loading-order-with-animation">GitHub</a>
         </LoadingOrderAnimation>
       </footer>
     );

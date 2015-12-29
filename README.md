@@ -26,11 +26,11 @@ Animate components in order.
 
 ### Props
 - `animation` _(String)_ - effect, values: `fade-in`, default: `fade-in`
-- `move` _(String)_ - direction, values: `from-bottom-to-top`, `from-top-to-bottom`, `from-left-to-right`, `from-right-t-left`, default: `none`
+- `move` _(String)_ - direction, values: `from-top-to-bottom`, `from-bottom-to-top`, `from-left-to-right`, `from-right-to-left`, default: `none`
 - `distance` _(Number)_ - direction distance in px, default: `0`
-- - `speed` _(Number)_ - animation speed in ms, default: `700`
+- `speed` _(Number)_ - animation speed in ms, default: `700`
 - `wait` _(Number)_ - wait before animation, after, default: `100`
-- - `block` _(String)_ - css style, values: `inline`, `block`, default: `block`
+- `block` _(String)_ - css style, values: `inline`, `block`, default: `block`
 
 
 

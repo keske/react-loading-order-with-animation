@@ -10,7 +10,7 @@ export default class Footer extends Component {
   render() {
 
     return (
-      <footer className={`${styles}`}>
+      <footer className={styles}>
         <LoadingOrderAnimation animation="fade-in"
                                move="from-bottom-to-top"
                                distance={30}

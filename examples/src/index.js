@@ -12,7 +12,7 @@ import styles from './styles';
 export default class Index extends Component {
   render() {
     return (
-      <div className={`${styles}`}>
+      <div className={styles}>
         <TopImage />
         <Footer />
       </div>

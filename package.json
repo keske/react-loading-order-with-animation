@@ -57,7 +57,7 @@
   },
   "dependencies": {
     "react": "^0.14.2",
-    "jquery": "^2.1.4",
+    "jquery": "^3.0.0",
     "bootstrap": "^3.3.5"
   }
 }
